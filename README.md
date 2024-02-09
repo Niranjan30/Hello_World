@@ -1,3 +1,2 @@
 # Hello_World
 First repository
-I like to eat and enjoy life...
